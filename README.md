@@ -1,0 +1,2 @@
+# AfroTree-Token
+ERC20
